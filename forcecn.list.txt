@@ -1,0 +1,7 @@
+# CN IP Access
+DOMAIN-SUFFIX,postar.cn,🇨🇳
+DOMAIN-SUFFIX,tianyancha.com,🇨🇳
+DOMAIN-SUFFIX,shouqianba.com,🇨🇳
+DOMAIN-SUFFIX,maxxipoint.com,🇨🇳
+DOMAIN-SUFFIX,leshuazf.com,🇨🇳
+DOMAIN-SUFFIX,pbcdci.cn,🇨🇳
