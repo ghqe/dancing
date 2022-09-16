@@ -12,10 +12,11 @@ PROCESS-NAME,leaf,DIRECT
 PROCESS-NAME,Thunder,DIRECT
 PROCESS-NAME,DownloadService,DIRECT
 PROCESS-NAME,qBittorrent,DIRECT
-PROCESS-NAME,/Users/lijiewei/.specter/bitcoin-binaries/bin/bitcoind,DIRECT
-PROCESS-NAME,/Applications/Jump Desktop Connect.app/Contents/MacOS/JumpConnect,DIRECT
-PROCESS-NAME,/Applications/qbittorrent.app/Contents/MacOS/qbittorrent,DIRECT
-PROCESS-NAME,/Applications/Bitcoin-Qt.app/Contents/MacOS/Bitcoin-Qt,DIRECT
+PROCESS-NAME,bitcoind,DIRECT
+PROCESS-NAME,specterd,DIRECT
+PROCESS-NAME,JumpConnect,DIRECT
+PROCESS-NAME,qbittorrent,DIRECT
+PROCESS-NAME,Bitcoin-Qt,DIRECT
 PROCESS-NAME,Transmission,DIRECT
 PROCESS-NAME,fdm,DIRECT
 PROCESS-NAME,Motrix,DIRECT
