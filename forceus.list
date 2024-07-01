@@ -7,4 +7,6 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,microsoft.com
+# > 电子商务
+DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,cvs.com
