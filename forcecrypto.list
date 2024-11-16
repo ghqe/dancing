@@ -1,10 +1,16 @@
 DOMAIN-SUFFIX,altcoinsbox.com
+# hkd
 DOMAIN-SUFFIX,hkd.com
 DOMAIN-SUFFIX,hkd.mobi
+# okx
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okex.org
+# mexc
 DOMAIN-SUFFIX,mexc.com
+# bingx
 DOMAIN-SUFFIX,bingx.com
+DOMAIN-SUFFIX,bb-os.com
+# bybit
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,huobi.ug
@@ -12,6 +18,7 @@ DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,token.im
 DOMAIN-SUFFIX,kucoin.com
+# binance
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
