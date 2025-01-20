@@ -16,3 +16,5 @@ DOMAIN-SUFFIX,kayak.com
 DOMAIN-SUFFIX,saksfifthavenue.com
 # > Panel
 DOMAIN-SUFFIX,cp.0x1234.com
+# > VOIP
+DOMAIN-SUFFIX,tktn.be
