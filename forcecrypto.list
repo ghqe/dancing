@@ -48,6 +48,8 @@ DOMAIN-SUFFIX,binance.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,wmtransfer.com
 DOMAIN-SUFFIX,pionex.com
 DOMAIN-SUFFIX,cloudbet.com
+# coinex
+DOMAIN-SUFFIX,coinex.com
 # dune
 DOMAIN-SUFFIX,dune.com
 # gate
