@@ -88,7 +88,7 @@ DOMAIN-SUFFIX,ierpifvid.com
 DOMAIN-SUFFIX,aperture.finance
 DOMAIN-SUFFIX,blofin.com
 # opinion
-opinion.trade
+DOMAIN-SUFFIX,opinion.trade
 # swoop
 DOMAIN-SUFFIX,swoop.exchange
 # toobit
