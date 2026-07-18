@@ -1,9 +1,10 @@
-# CN IP Access
-DOMAIN-SUFFIX,mxbc.net
-DOMAIN-SUFFIX,postar.cn
-DOMAIN-SUFFIX,tianyancha.com
-DOMAIN-SUFFIX,shouqianba.com
-DOMAIN-SUFFIX,maxxipoint.com
-DOMAIN-SUFFIX,leshuazf.com
-DOMAIN-SUFFIX,pbcdci.cn
-DOMAIN-SUFFIX,mokexweb.me
+# > Bank
+DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,livibank.com
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,za.group
+# > Call
+DOMAIN-SUFFIX,eyuai.com
