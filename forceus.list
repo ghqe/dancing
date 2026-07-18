@@ -1,3 +1,6 @@
+# > PROCESS
+PROCESS-NAME,/Applications/Codex.app/Contents/MacOS/Codex
+# > Domain
 DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ultramobile.com
@@ -19,3 +22,6 @@ DOMAIN-SUFFIX,tktn.be
 # > 18
 DOMAIN-SUFFIX,fapello.com
 DOMAIN-SUFFIX,boomplay.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-KEYWORD,linkedin
+DOMAIN-SUFFIX,xascdn.li
